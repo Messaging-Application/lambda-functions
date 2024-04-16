@@ -7,4 +7,4 @@ A repository with some useful Lambda functions, to:
 - validate jwt to authorize access to resources
 
 ## Deployment diagram
-![deployment](https://github.com/Messaging-Application/lambda-functions/blob/main/images/deployment.PNG?raw=true)
+![deployment](https://github.com/Messaging-Application/lambda-functions/blob/main/images/deployment.png?raw=true)
